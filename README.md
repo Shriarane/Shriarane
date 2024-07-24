@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shriarane
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...kavikulguru Institute of Science and technology Ramtek 
+- 🌱 I’m currently learning at ...kavikulguru Institute of Science and technology Ramtek 
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...via github profile
 
